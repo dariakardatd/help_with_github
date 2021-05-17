@@ -1,0 +1,14 @@
+/* Css rule */
+body { 
+    margin: 0;
+
+    
+    border-width: 20px;
+    border-style: dashed;
+    border-color: red;
+    border: 10px solid pink;
+}
+
+p{
+    color: pink;
+}
